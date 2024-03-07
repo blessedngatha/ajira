@@ -1,0 +1,34 @@
+.navbar{
+    background-color: chartreuse;
+}
+
+.logo{
+    background-color: blue;
+} 
+.logo h2{
+    color: orangered;
+}
+.wordings li{
+    color: black;
+}
+
+.wordings li{
+    box-decoration-break: inherit;
+}
+.grid-container{
+    background-color: orange
+}
+
+.fashion{
+    background-color: gray;
+}
+.fashion h3{
+    color: black;
+}
+.grid-container{
+display: grid;
+grid-template-columns: auto auto ;
+}
+.grid-container A{
+    background-color: blueviolet;
+}
